@@ -57,7 +57,7 @@ d3p8zr0ffa9t17.cloudfront.net
 #spectrum.s3.amazonaws.com
 #arcus-uswest.amazon.com
 #pinpoint.us-east-1.amazonaws.com
-#aviary.amazon.de
+aviary.amazon.de
 #digprjsurvey.amazon.eu
 
 # third party
