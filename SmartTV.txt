@@ -343,6 +343,10 @@ platform.cid.samba.tv
 7345023508.fxmconnect.com
 7345023508.fxm9485766783.com
 
+# Thomson
+eu.api.upgrade.platform.huan.tv
+eu-tvuser-tcl.cedock.com
+
 # Xioami Mi TV
 mitv.tracking.intl.miui.com
 tracking.intl.miui.com
