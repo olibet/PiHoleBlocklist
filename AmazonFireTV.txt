@@ -18,9 +18,10 @@ msh.amazon.co.uk
 mobileanalytics.us-east-1.amazonaws.com
 
 # alexa
-#cortana-gateway.amazon.com
-#api.amazonalexa.com
-#avs.eu.amazonalexa.com
+cortana-gateway.amazon.com
+api.amazonalexa.com
+avs.eu.amazonalexa.com
+
 d3p8zr0ffa9t17.cloudfront.net
 
 # updates
